@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Main - Prints _putchar, followed by a new line
+ * main - Prints _putchar, followed by a new line
  * by Blackdiamond
  * Return: Always 0 (Success)
  */
